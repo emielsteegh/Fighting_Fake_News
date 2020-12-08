@@ -1,0 +1,55 @@
+Developing a vaccine is a long-term process
+
+It is difficult to say when there will be an effective vaccine against the novel coronavirus.  It takes a long time to develop a vaccine for a new infectious disease, usually as long as 5 to 10 years. Every effort is being made to accelerate development of a vaccine for COVID-19.
+More than 100 vaccines are in development
+
+A total of more than 100 different vaccines for SARS-CoV-2 are under development. A small number of them have reached the stage of development that the vaccines can be tested in humans (clinical trials). This type of clinical research is structured in three phases. The phases must all be completed properly, but they can take place at the same time –  especially if a vaccine is needed quickly, as is the case with the novel coronavirus.
+
+Three phases of clinical research:
+
+    Phase I: The vaccine is given to healthy volunteers to see whether it is safe and what dosage (quantity) is most effective.
+    Phase II: The vaccine is given to target groups that would be vaccinated to see what dosage (quantity) is most effective and how well the immune system responds to it.
+    Phase III: The vaccine is given to an even larger group, consisting of thousands of people, to see how well the vaccine works to prevent COVID-19. People who do receive the vaccine are then compared with people who did not receive the vaccine.  
+
+Only when all phases have been successfully completed can the vaccine be approved for market launch. Then it can be used in general practitioners' practices or vaccination centres.
+How do vaccines work?
+
+There are five different types of vaccines. Each one works in a different way.
+1: Live attenuated vaccines
+
+Some well-known vaccines for other infectious diseases are based on weakened versions of a virus.  These are known as live attenuated vaccines.
+The viruses are weakened to reduce virulence by culturing cells in a laboratory, and then processed into a vaccine. After people come into contact with these attenuated viruses through vaccination, the virus will not be able to replicate easily in humans. As a result, our immune system has enough time to learn how to fight against this weaker form of the virus. This approach enables us to become immune without getting sick.
+2: Inactivated vaccines
+
+Inactivated vaccines contain viruses or bacteria that have been killed, which are either whole or in pieces. When our immune system detects these dead viruses or bacteria or their fragments, it can learn to recognise the fragments. After this, we are protected. If we are infected by the live version of the virus or bacteria in the future, our immune system will recognise the virus or bacteria and respond more quickly to protect us from infection – so we will not become ill.
+3: Subunit vaccines
+
+If the vaccine only contains particular pieces of a virus or bacteria, it is known as a subunit vaccine. When that subunit can be recognised by the immune system, it is referred to as an antigen.
+Extensive research is being carried out on subunit vaccines for protection against COVID-19. An important subunit of SARS-CoV-2 is the spike protein or S protein, which is attached to the exterior of the virus. The virus uses the S protein to make contact with another protein which is located on the exterior of the cells in our lung vesicles. If the virus attaches itself to a human cell via the S protein, the virus can penetrate the exterior and enter the cell. Then the cell is infected.  Because the S protein plays such an essential role in the infection process, it is targeted by many vaccine developers. If we are infected by the live version of the virus in the future, our immune system will immediately recognise the virus and we will not become ill.
+ 
+4: DNA and RNA vaccines
+
+DNA and RNA vaccines add a new piece of genetic material – deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) – to specific immune cells in our body. The targeted cells are often a particular type, which absorb and break down a virus or bacteria. The immune cells that have broken down a virus or bacteria then show a piece of the virus or bacteria (a subunit known as an antigen) to other immune cells so they learn to recognise the antigen. That is why these immune cells are also referred to as antigen-presenting cells. The cells that learn to recognise the antigen are called lymphocytes. DNA and RNA vaccines allow the antigen-presenting cells to detect a piece of the pathogen without the cell first having to absorb and break down the live version of the virus or bacteria. If we are then infected by the live version of the virus or bacteria in the future, the lymphocytes will recognise the antigen for the pathogen, neutralise the virus or bacteria, and we will not become ill.
+
+There are also DNA and RNA vaccines that use 'normal' body cells instead of immune cells. These cells also present the antigen to our immune system, which ensures that we will not become ill if we do get infected. 
+These DNA and RNA techniques are new, and a DNA or RNA vaccine has not yet been approved for any human disease. A number of DNA vaccines have already been used successfully for animals.
+ 
+5: Vector vaccines
+
+Researchers can modify existing viruses to act as vaccines. Once that happens, they are no longer viruses, but vectors. The viruses have been adapted in such a way that they do not display exactly the same behaviour as unmodified viruses. The difference compared to the real viruses is that vector viruses:
+
+    can no longer make someone ill;
+    (often) cannot replicate themselves, and;
+    not only contain their own RNA or DNA, but also have a piece of RNA or DNA from another virus within them. All pieces of RNA or DNA can work as an antigen, so the cells in our immune system will react to the vector virus as well as to part of the vaccine virus. This is how immunity is developed.
+
+A category of viruses that are often adapted into a vector are the adenoviruses. Adenoviruses are a group of viruses to which people are often exposed, but which cause no or only mild illness. Because adenoviruses are so common, our immune system is very good at dealing with an adenovirus infection.
+Vaccines in clinical trials
+
+The Royal Netherlands Society for Microbiology (KNVM) and the London School of Hygiene and Tropical Medicine keep track on a weekly basis of progress on the development of vaccines in the clinical trials on a weekly basis.
+Feasibility study to prepare for a COVID-19 vaccine
+
+Researchers from the Netherlands are involved in a European project which aims to prepare Europe for a COVID-19 vaccine. The ACCESS project (Vaccine Covid-19 monitoring ReadinESS) is a feasibility study to prepare for monitoring the safety and effectiveness of the novel coronavirus vaccines when they become available on the market. 
+
+The project was commissioned by the European Medicines Agency (EMA). A total of 22 European organisations are involved. The Dutch contribution is significant, as UMC Utrecht, Utrecht University, RIVM National Institute for Public Health and the Environment  , the Netherlands Pharmacovigilance Centre Lareb and research institute PHARMO are contributing to ACCESS. The project is led by UMC Utrecht and Utrecht University. 
+
+The development of a vaccine normally takes 10 to 15 years. Because of the COVID-19 pandemic, the aim is to develop a vaccine within one year. The ACCESS project will help to prepare Europe for this undertaking. RIVM is contributing to the feasibility analysis of an EU structure for COVID-19 vaccine monitoring, in collaboration with Lareb. 
