@@ -2,3 +2,4 @@
 /Pipfile
 /Pipfile.lock
 /.ipynb_checkpoints/
+/labs/corenlp_server*
