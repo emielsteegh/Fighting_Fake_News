@@ -22,9 +22,11 @@ nltk.download('vader_lexicon')
 sia = SIA()
 
 class Article:
-    def __init__(self, article_text_in, article_title_in):
+    def __init__(self, article_text_in, article_title_in, rating_in):
         self.article_text = article_text_in
         self.article_title = article_title_in
+        self.rating = rating_in
+        self.prediction = None
 
         self.data = pd.DataFrame()
 
@@ -32,6 +34,8 @@ class Article:
         self.set_sentiments()
 
         self.stats = self.data['score'].describe()
+
+        self.set_markers()
 
     def set_sentences_manual(self):
         # splitting sentences more or less manually
@@ -64,7 +68,6 @@ class Article:
         sentences = [s.strip() for s in sentences]
 
         self.data = pd.DataFrame({'sentence' : sentences})
-        print(self.data)
 
         return None
 
@@ -86,3 +89,6 @@ class Article:
         self.data['score'] = self.data.sentence.apply(self.get_scores)
         return None
 
+    def set_markers(self):
+        self.data['marker'] = (self.data.index+1)/self.stats['count']
+        return None
