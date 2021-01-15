@@ -4,3 +4,4 @@
 /.ipynb_checkpoints/
 /labs/corenlp_server*
 /labs/out/
+labs/gensim/bag_of_words
