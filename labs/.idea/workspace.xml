@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd3a23e1-51de-469f-b81b-67db86f2b13e" name="Default Changelist" comment="" />
+    <list default="true" id="cd3a23e1-51de-469f-b81b-67db86f2b13e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab05-imporvements.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab05-imporvements.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06_LSTM-snopes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab06_LSTM-snopes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-sentiment_groundtruthtable.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-sentiment_groundtruthtable.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/%lekker werken" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cd3a23e1-51de-469f-b81b-67db86f2b13e" name="Default Changelist" comment="" />
@@ -31,7 +36,21 @@
       <option name="presentableId" value="Default" />
       <updated>1607873100160</updated>
       <workItem from="1607873100768" duration="3000" />
+      <workItem from="1611481603596" duration="327000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611481644080">
+      <screen x="0" y="0" width="2465" height="1440" />
+    </state>
+    <state x="369" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2465.1440@0.0.2465.1440" timestamp="1611481644080" />
+    <state x="734" y="365" key="SettingsEditor" timestamp="1611481916598">
+      <screen x="0" y="0" width="2465" height="1440" />
+    </state>
+    <state x="734" y="365" key="SettingsEditor/0.0.2465.1440@0.0.2465.1440" timestamp="1611481916598" />
   </component>
 </project>
