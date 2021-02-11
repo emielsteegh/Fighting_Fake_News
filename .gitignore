@@ -3,7 +3,15 @@
 /Pipfile.lock
 /.ipynb_checkpoints/
 /labs/corenlp_server*
-/labs/out/
 labs/gensim/bag_of_words
 labs/gensim/trigram.pkl
 labs/gensim/bigram.pkl
+labs/out/AkkermanData_Emiel.csv
+labs/out/everything.csv
+labs/out/mini_truefake.csv
+labs/out/topic_sentiment.csv
+labs/out/truefake_mcintire.csv
+labs/out/truefake_mcintire.csv
+labs/out/truefake_series.pickle
+labs/out/.ipynb_checkpoints/graph-checkpoint.svg
+labs/out/truefake.csv
